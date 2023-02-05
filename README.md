@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://raw.githubusercontent.com/SkivaDev/profile-banner/main/bannerGithub.png" alt="cover" />
+<img width="100%" height = "300px" src="https://raw.githubusercontent.com/SkivaDev/profile-banner/main/bannerGithub.png" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=skivaDev.skivaDev)
 
 </p>
-<div size='20px'> Hi! My name is Fabrizio Ortiz. Thank You for taking the time to view my GitHub Profile <img src = "https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width = '20px' height='20px'>
+<div size='20px'> Hi! My name is Fabrizio Ortiz Orellana. Thank You for taking the time to view my GitHub Profile <img src = "https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width = '30px' height='30px'>
 </div>
 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
