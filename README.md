@@ -1,8 +1,8 @@
 <div align="center">
-<img width="100%" height = "300px" src="https://raw.githubusercontent.com/SkivaDev/profile-banner/main/bannerGithub.png" alt="cover" />
+<img width="100%" height = "300px" src="https://github.com/SkivaDev/profile-banner/blob/main/bannerGithub.png?raw=true" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://github.com/SkivaDev/profile-banner/blob/main/bannerGithub.png?raw=true" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=skivaDev.skivaDev)
