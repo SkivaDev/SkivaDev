@@ -1,6 +1,5 @@
 <!-- Banner 20232A -->
 ![Banner-dark-mode](https://raw.githubusercontent.com/SkivaDev/SkivaDev/main/assets/banner-github2023.png)
-![Banner-light-mode-test](https://raw.githubusercontent.com/SkivaDev/SkivaDev/main/assets/banner-github2023.png)
 
 
 <p align="center">
@@ -206,4 +205,3 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SkivaDev&icon=0&color=0)](https://visitcount.itsvg.in)
-
