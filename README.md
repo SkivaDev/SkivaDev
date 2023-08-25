@@ -7,12 +7,80 @@
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
-##
-
 # 💫 About Me:
 🔭 I’m currently studying to become a software engineer.<br>🌱 I’m currently learning Next.js.<br>🔍 Take a look at my projects on Frontend Mentor!.<br>📫 How to reach me: fabrizioortio.main@gmail.com.<br>💬 Ask me about HTML, CSS, and JavaScript.<br>🤝 I’m looking for help in learning about Accessible Websites.<br>👯 I’m looking to collaborate on developing new open-source projects.
+##
+
+<br>
+
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
 
+<br>
+
+
+
+- 🔭 I’m currently studying to **become a software engineer**.
+
+- 🌱 I’m currently learning **Next.js**.
+
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/SkivaDev)!.
+
+- 📫 How to reach me: **fabrizioortizo.main@gmail.com**.
+
+- 💬 Ask me about **HTML, CSS, and JavaScript**.
+
+- 🤝 I’m looking for help in learning about **Accessible Websites**.
+
+- 👯 I’m looking to collaborate on **developing new open-source projects**.
+
+
+<br>
+<br>
+
+## 🏆 Goals
+
+- 📖 Learn the basics of **Next.js** framework.
+- 📱 Build a new portfolio using all my knowledge of **Front-end** and **Back-end**.
+- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
+- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
+## 🎯 Future Goals
+
+- 🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
+- 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
+- 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
+
+## 📈 Achievements
+
+- 🎉 I have successfully completed over 10 projects on Frontend Mentor and shared my code with others.
+- 🤝 I have provided feedback on projects on Frontend Mentor website.
+
+
+#
+
+<br>
+
+<h2 align="center">📫 Connect with me</h2>
+
+<div align = "center">
+    
+[![Gmail: Fabrizio Ortiz](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:melvinaguilarhdz@gmail.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/SkivaDev)](https://www.frontendmentor.io/profile/SkivaDev)&nbsp;
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/SkivaDev)](https://codepen.io/SkivaDev)
+<br>
+[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=linktr.ee/FabrizioOrtiz)](linktr.ee/FabrizioOrtiz)&nbsp;
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/akys)](https://www.freecodecamp.org/akys)&nbsp;
+[![Linkedin: Fabrizio Ortiz](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabri-ort-orellana/)](https://www.linkedin.com/in/fabri-ort-orellana/)
+  
+</div>
+
+<br>
+
+<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fabri-ort-orellana) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Fabrizio_Ortiz0) 
 
