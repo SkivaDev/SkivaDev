@@ -21,7 +21,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 - 🔭 I’m currently studying to **become a software engineer**.
 
-- 🌱 I’m currently learning **Next.js**.
+- 🌱 I’m currently learning **Nest.js**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/SkivaDev)!.
 
