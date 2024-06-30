@@ -39,7 +39,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 ## 🏆 Goals
 
-- 📖 Learn the basics of **Next.js** framework.
+- 📖 Learn the basics of **Nest.js** backend framework.
 - 📱 Build a new portfolio using all my knowledge of **Front-end** and **Back-end**.
 - 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
