@@ -53,7 +53,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 ## 📈 Achievements
 
-- 🎉 I have successfully completed over 10 projects on Frontend Mentor and shared my code with others.
+- 🎉 I have successfully completed over 25 projects on Frontend Mentor and shared my code with others.
 - 🤝 I have provided feedback on projects on Frontend Mentor website.
 
 
